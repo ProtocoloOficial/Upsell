@@ -181,7 +181,7 @@ cakto-upsell-reject::part(button):hover {
     background: #111 !important;
 }
 
-.safe-footer { text-align: center; padding: 40px; font-size: 12px; color: #333; }
+.safe-footer { text-align: center; padding: 40px; font-size: 12px; color: #ffffff; }
 
 /* =========================================
    MEDIA QUERIES (O "RÁDIO" - RESPONSIVIDADE)
